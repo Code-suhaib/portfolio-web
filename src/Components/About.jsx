@@ -8,7 +8,7 @@ const About = () => {
           {/* Profile Image */}
           <div className="col-md-5 text-center">
             <img
-              src="project_photo.jpeg " // Replace with your profile image URL
+              src="Profile_photo.jpeg" // Replace with your profile image URL
               alt="Suhaib Jahagirdar"
               className="img-fluid rounded-circle shadow-lg"
             />

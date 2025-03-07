@@ -1,16 +1,15 @@
 {
   "name": "portfolio-web",
   "private": true,
-  "homepage": "https://https://github.com/Code-suhaib/portfolio-web",
+
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "vite build",
-  "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
+   
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
